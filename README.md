@@ -3,7 +3,7 @@
 Implementation of 4 different quicksort algorithms, 
 ***Default quicksort/Iterative quicksort/Pivot selection quicksort/Optimized quicksort***
 
--
+-Graph
 ![퀵소트](https://user-images.githubusercontent.com/61370901/85908328-98943b80-b84f-11ea-91e7-232384d691e2.jpg)
 
 
